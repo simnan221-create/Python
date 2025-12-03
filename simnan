@@ -1,0 +1,5 @@
+a = int(intput("enter your value"))
+if a==0/2:
+print("even")
+else:
+print("odd")
